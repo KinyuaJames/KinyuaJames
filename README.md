@@ -21,12 +21,4 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-From: 14 October 2022 - To: 26 October 2022
-
-Total Time: 39 hrs 51 mins
-
-Other            25 hrs 18 mins  >>>>>>>>>>>>>>>>---------   63.48 %
-```
-
 <!--END_SECTION:waka-->
