@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=KinyuaJames&theme=dark&hide_border=true&border_radius=-1.6&date_format=j%20M%5B%20Y%5D&background=1DC7DBCB&ring=BD50DD&fire=7128DD&dates=D1FF3B&sideNums=36DD24&sideLabels=FF08E5)](https://git.io/streak-stats)
 
+
+[![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KinyuaJames&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/KinyuaJames)
+
 <!--START_SECTION:waka-->
 
 ```text
